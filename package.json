@@ -1,20 +1,15 @@
 {
-    "name": "@zebuild/baileys-pro",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By Z",
+    "name": "ouringlitch-baileys",
+    "version": "1,0,2",
+    "description": "WhatsApp API Modification",
     "keywords": [
         "whatsapp",
-        "zebuild-wabot",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
         "botwa"
     ],
-    "homepage": "https://github.com/zebuildV10/bails",
-    "repository": {
-        "url": "https://github.com/zebuildV10/bails"
-    },
     "license": "MIT",
     "author": "Adhiraj Singh",
     "main": "lib/index.js",
@@ -58,7 +53,8 @@
         "pino": "^7.0.0",
         "protobufjs": "^7.2.4",
         "uuid": "^9.0.0",
-        "ws": "^8.13.0"
+        "ws": "^8.13.0",
+        "fflate": "^0.8.2"
     },
     "devDependencies": {
         "@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
@@ -107,5 +103,3 @@
         "node": ">=20.0.0"
     }
 }
-
-    
