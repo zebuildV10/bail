@@ -1,5 +1,5 @@
 {
-    "name": "ouringlitch-baileys",
+    "name": "@zebuild-pro.bails",
     "version": "1,0,2",
     "description": "WhatsApp API Modification",
     "keywords": [
@@ -46,7 +46,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@otaxayun/libsignal-node@latest",
+        "libsignal": "github:@asytzy-dev/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
